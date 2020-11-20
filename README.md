@@ -29,9 +29,7 @@
     - 딥러닝 상세 기술 이해
 
 - 딥러닝 개발 환경
-- 기본 linux 명령의 이해와 실습
-    - [linux.md](material/linux.md)
-    - [linux_exercise.md](material/linux_exercise.md)
+- 기본 linux 명령의 이해와 실습 : [linux.md](material/linux.md)
 
 <br>
 
