@@ -76,7 +76,7 @@
 
 - Data Augmentation : [data_augmentation.ipynb](material/deep_learning/data_augmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/data_augmentation.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
-- 커스텀 데이터 VGG 데이터 분류 실습
+- 커스텀 데이터 VGG 데이터 분류 실습 : [real_practice_glaucoma_classification.ipynb](material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
 
 <br>
 
@@ -85,7 +85,7 @@
 
 - text 데이터의 이해
     - word embedding의 이해
-    - word2vec 실습 : TODO:link
+    - word2vec 실습
 - RNN
     - RNN의 이해 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
     - CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 :  : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/text_classification.ipynb)
@@ -106,7 +106,7 @@
 - GAN
     - GAN의 이해 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), 
     - GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/wgan_gp_mnist.ipynb)
-    - Conditional GAN의 이해 : TODO:link
+    - Conditional GAN의 이해 : 
     - Cycle GAN의 이해 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
 
 <br>
