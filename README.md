@@ -88,7 +88,7 @@
     - word2vec 실습
 - RNN
     - RNN의 이해 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
-    - CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 :  : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/text_classification.ipynb)
+    - CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 :  : [rnn_text_classification.ipynb](material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/rnn_text_classification.ipynb)
     - RNN을 사용한 흑백 영상 데이터 MNIST 분류 : [mnist_rnn.ipynb](material/deep_learning/mnist_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/mnist_rnn.ipynb)
 - IMDB 사례를 통한 오버피팅 처리하기 : [treating_overfitting_with_imdb.ipynb](material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
 - 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
