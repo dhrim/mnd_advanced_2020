@@ -192,7 +192,11 @@
 - cart pole : https://www.youtube.com/watch?v=XiigTGKZfks
 - bidirectional RNN : https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66
 - alphago architecture : https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0
-  
+- u-net architecture : https://machinelearningmastery.com/how-to-implement-pix2pix-gan-models-from-scratch-with-keras/
+- upsampling : https://kharshit.github.io/blog/2019/02/15/autoencoder-downsampling-and-upsampling
+- Denseness architecture : https://hoya012.github.io/blog/DenseNet-Tutorial-1/
+- K-fold cross validation : https://m.blog.naver.com/PostView.nhn?blogId=dnjswns2280&logNo=221532535858&proxyReferer=https:%2F%2Fwww.google.com%2F
+- M-net architecture : https://hzfu.github.io/proj_glaucoma_fundus.html  
 
 
 <br>
