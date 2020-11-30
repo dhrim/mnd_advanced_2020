@@ -161,7 +161,7 @@
 <br>
 
 
-## 기타
+# 기타
 
 교육환경, numpy, pandas, matplot
 - 교육 환경 : [env.md](material/env.md)
@@ -183,7 +183,10 @@
 - 서버 설치 기록 : [2019-10-17_setup_server.pdf](material/env/2019-10-17_setup_server.pdf)
 - GCP에 VM 생성하고 Colab 연결 : [GCP_VM_and_Colab.pdf](material/env/GCP_VM_and_Colab.pdf)
 
-교육에 사용된 외부 자료
+
+<br>
+
+# 교육에 사용된 외부 자료
 - bynamic robotics 1 : https://www.youtube.com/watch?v=_sBBaNYex3E
 - bynamic robotics 2 : https://www.youtube.com/watch?v=94nnAOZRg8k
 - cart pole : https://www.youtube.com/watch?v=XiigTGKZfks
