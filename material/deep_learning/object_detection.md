@@ -20,8 +20,9 @@
 
 # YOLO
 
-<br>
+- YOLO 설명 자료 : https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit	
 
+<br>
 
 ## DarkNet 사용
 
