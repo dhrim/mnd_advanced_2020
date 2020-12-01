@@ -76,6 +76,8 @@ https://github.com/qqwweee/keras-yolo3
 
 가이드 내의 변환 코드 : [convert_yolo_labeling_xml.py](convert_yolo_labeling_xml.py)
 
+사용할 데이터 파일 : https://github.com/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/dogs-cats.zip
+
 <br>
 
 ## 데이터 준비
