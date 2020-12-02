@@ -189,6 +189,7 @@
 - AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
 - 서버 설치 기록 : [2019-10-17_setup_server.pdf](material/env/2019-10-17_setup_server.pdf)
 - GCP에 VM 생성하고 Colab 연결 : [GCP_VM_and_Colab.pdf](material/env/GCP_VM_and_Colab.pdf)
+- TensorFlow 홈 tutorial에서 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
 
 
 <br>
@@ -204,7 +205,16 @@
 - Denseness architecture : https://hoya012.github.io/blog/DenseNet-Tutorial-1/
 - K-fold cross validation : https://m.blog.naver.com/PostView.nhn?blogId=dnjswns2280&logNo=221532535858&proxyReferer=https:%2F%2Fwww.google.com%2F
 - M-net architecture : https://hzfu.github.io/proj_glaucoma_fundus.html  
-
+- yolo 적용 예 블로그 : https://nero.devstory.co.kr/post/pj-too-real-03/
+- GAN 위조 지폐 : http://mrkim.cloudy.so/board_KBEq62/175378
+- GAN paper : https://arxiv.org/pdf/1406.2661.pdf
+- Gan paper count : https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221201915691
+- Conditional gan face generation example. https://github.com/Guim3/IcGAN
+- Pinpointing example : https://www.geeks3d.com/20180425/nvidia-deep-learning-based-image-inpainting-demo-is-impressive/ 
+- 동영상 스타일 변환 : https://www.youtube.com/watch?v=Khuj4ASldmU
+- 얼굴 감정 인식 예 : http://www.astronomer.rocks/news/articleView.html?idxno=86084
+- Papers with code : https://paperswithcode.com/
+  
 
 <br>
 
