@@ -137,9 +137,9 @@
 
 
 - 다양한 적용
-    - 얼굴 탐지 실습 : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/Face_Recognition.ipynb)
+    - 얼굴 위치 탐지 실습 : [track_faces_on_video_realtime.ipynb](material/deep_learning/track_faces_on_video_realtime.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/track_faces_on_video_realtime.ipynb)
     - 얼굴 감정 분류 실습 : [face_emotion_classification.ipynb](material/deep_learning/face_emotion_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/face_emotion_classification.ipynb)
-    - 얼굴 탐지 실습 : [track_faces_on_video_realtime.ipynb](material/deep_learning/track_faces_on_video_realtime.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/track_faces_on_video_realtime.ipynb)
+    - 얼굴 인식 실습 : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/Face_Recognition.ipynb)    
     - 화재 영상 분류 실습 : [Fire.tar.gz](material/deep_learning/Fire.tar.gz), [spatial_envelope_static_8outdoorcategories.tar.gz](material/deep_learning/spatial_envelope_static_8outdoorcategories.tar.gz)
 
 <br>
