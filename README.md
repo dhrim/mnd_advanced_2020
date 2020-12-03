@@ -142,7 +142,7 @@
     - 얼굴 인식 실습 : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/Face_Recognition.ipynb)    
     - 화재 영상 분류 실습 : 
     	- 데이터 : [Fire.tar.gz](material/deep_learning/Fire.tar.gz), [spatial_envelope_static_8outdoorcategories.tar.gz](material/deep_learning/spatial_envelope_static_8outdoorcategories.tar.gz)
-	- 실습 파일 : [fire_scene_classification.ipynb](material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
+    	- 실습 파일 : [fire_scene_classification.ipynb](material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
 
 <br>
 
