@@ -270,7 +270,7 @@ python
 libray
     numpy
         load
-        op
+        operation
         shape
         slicing
         reshape
@@ -278,6 +278,7 @@ libray
     pandas
         load
         view
+	operation
         to numpy
     matplot
         draw line graph
@@ -295,9 +296,9 @@ Deep Learning
             train, validate, test
             shuffle
         learning curve : accuracy, loss
-        tunning
+        tuning
             overfitting, underfitting
-            regularization, dropout, batch normalization
+            dropout, batch normalization, regularization
             data augmentation
         Transfer Learning
     type
@@ -306,7 +307,7 @@ Deep Learning
         reinforcement
     model
         CNN
-            varnilla, VGG16
+            vanilla, named CNN
         RNN
         GAN
     task
@@ -319,7 +320,11 @@ Deep Learning
 	Super Resolution
 	Question answering
 	Auto Captioning
-        target : text/image
+    data type
+    	attribute data
+	image data
+	natural language data
+	time series data
 
 TensorFlow/Keras
     basic frame
@@ -336,7 +341,7 @@ TensorFlow/Keras
         initializer
     tuning
         learning rate
-        regularier
+        regularizer
         dropout
         batch normalization
     save/load
