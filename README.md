@@ -165,7 +165,9 @@
 - 포즈 추출 실습 : [pose_extraction_using_open_pose.ipynb](material/deep_learning/pose_extraction_using_open_pose.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/pose_extraction_using_open_pose.ipynb)
     - 사용 템플릿 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/open_pose_using_template.ipynb)
 - web cam + colab 포즈 추출 실습 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
-- 엔진 블레이드 영상 분류 : [bladeDataset_original.zip](material/deep_learning/bladeDataset_original.zip)
+- 엔진 블레이드 영상 분류 실습
+    - 데이터 : [bladeDataset_original.zip](material/deep_learning/bladeDataset_original.zip)
+    - 노트북 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/engine_blade_classification.ipynb)
 - 심리설문 데이터 분류 실습 : [real_practice_psychologial_test_classification.ipynb](material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
 
 
